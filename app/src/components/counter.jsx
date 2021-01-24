@@ -7,7 +7,7 @@ class Counter extends Component {
 
             <div>
                 <h1>Hello World</h1>
-                <button>Increament</button>
+                <button>Increment</button>
             </div>
         );
     }
